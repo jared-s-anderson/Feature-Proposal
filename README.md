@@ -1,1 +1,1 @@
-This is a features proposal document that I created for Sunblink.
+This is a feature proposal document that I created for Sunblink.
